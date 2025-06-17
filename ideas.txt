@@ -1,0 +1,16 @@
+1. Fun / Games
+
+Trivia: Ask trivia questions and check answers
+
+Rock Paper Scissors: Play RPS against the bot
+
+can update the dramamine function to pull inspirational quotes that the user can use to go with the dramamine song (maybe llm)
+
+2. Random / Meme
+Random Joke: !joke → Pulls a joke from an API
+
+Random Meme: !meme → Sends a random meme image
+
+Cat/Dog Pics: !cat or !dog → Sends cute animal pictures
+
+Quote: !quote → Sends an inspirational or funny quote
